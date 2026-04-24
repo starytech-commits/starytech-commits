@@ -16,6 +16,5 @@ I’m currently working on a full- stack hospitality website that will streamlin
 
 - Let's Connect: [LinkedIn] (https://www.linkedin.com/in/starytech)
 -                 [Email] (starytech01@gmail.com)
-- 
-- 📫 Let's connect: 
+  
 - 😄 Pronouns: She, her
