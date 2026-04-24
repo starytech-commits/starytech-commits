@@ -1,16 +1,21 @@
 ## Hi there 👋
+I'm StaryTech, a full stack developer (MERN stack) focused on building scalable front-end and backend systems and also streamlining deployment pipelines. I have a great interest in clean code structure, API design and interactive UI/UX.
 
-<!--
-**starytech-commits/starytech-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+Frontend: React and Tailwind CSS
+Backend: Node.js, Express.js.
+Database: MongoDB, Mongoose
+DevOps/Tools: Git, Docker, Postman.
 
-Here are some ideas to get you started:
+## Currently Building
+I’m currently working on a full- stack hospitality website that will streamline guest management and resource allocation for an non-profit foundation. Focused on creating a seamless user experience and a robust backend to support the foundation's mission 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning TypeScript to further complement my MERN skills
+- 
+- 👯 I’m looking to collaborate on Open-source projects or E-commerce platforms
+
+- Let's Connect: [LinkedIn] (https://www.linkedin.com/in/starytech)
+-                 [Email] (starytech01@gmail.com)
+- 
+- 📫 Let's connect: 
+- 😄 Pronouns: She, her
